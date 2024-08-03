@@ -1,0 +1,339 @@
+*{
+    margin: 0px;
+    color: #252931;
+}
+
+#a_p{
+    background-color: #484939;
+    padding: 8px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+    align-content: center;
+    height: 35px;
+}
+
+#login{
+    margin-right: 40px !important;
+}
+
+#mininav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 28px;
+    position: relative;
+
+}
+
+#imgn{
+    margin-right: 142px;
+}
+#mininav>a{
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+
+
+#nav>a{
+    text-transform:uppercase;
+    text-decoration: none;
+    color: black;
+    margin-left: 27px;
+    
+}
+#nav>input{
+    background-color: #f2f5f8;
+    border: 1px solid #e7e7e7;
+    height: 44px;
+    width: 250px;
+
+}
+
+#nav>a:hover{
+    color: rgb(182, 8, 8);
+
+}
+
+#outer{
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    position: relative;
+    top: 0px;
+    position: sticky !important;
+    top: 0px;
+}
+
+#ex{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 3%;
+    margin-bottom: 30px;
+
+}
+
+.shirt{
+    height: 250px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 45PX;
+}
+
+.shirt>img{
+    margin-left: 15px;
+    margin-top: 10px;
+    height: 210px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+
+.shirt>p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+#hclassic{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 4%;
+
+} 
+#free{
+    font-size:15;
+    font-weight: 200;
+    text-align: center;
+}
+
+#Add>img{
+    margin-top: 60px;
+    margin-left:60px;
+    height: 520px;
+}
+
+.shirt>img:hover{
+    height: 230px;
+}
+
+.clear{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 5%;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.ndeal{
+    padding-left: 35px;
+    height: 400px;
+    width: 350px;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.dealflex{
+    margin-top: 2%;
+    display: flex;
+}
+
+.ndeal>img:hover{
+    height: 350px;
+    width: 280px;
+    
+}
+.ndeal>img{
+    height:330px;
+    width: 266px;
+}
+
+.ndeal>p:hover{
+    color: red;
+}
+
+.Mrp{
+    text-decoration: line-through;
+}
+
+
+.off{
+    color: green;
+    font-size: 11px;
+
+}
+
+#button>button{
+    color:  #d63242;
+    background-color: white;
+    border: 2px solid  #d63242;
+    height: 52px;
+    width: 250px;
+}
+
+#button>button:hover{
+    background-color:#d63242;
+    color: white;
+    transition-duration: 2s;
+    transition-property:all;
+}
+
+#button{
+    margin-left: 42%;
+}
+
+#wrap{
+    height: 76px;
+margin-top: 2%;
+    text-align: center;
+
+}
+#pd{
+    font-weight: 900;
+    font-size: 24px
+}
+
+#two{
+    display: flex;
+    height: 100px;
+    width: 500px;
+    background-color: aqua;
+}
+
+#s{
+    font-size: 28px;
+    font-weight: 900;
+}
+#ico{
+    height: 100px;
+    width: 50px;
+}
+
+#cou{
+    
+    padding-left: 80px;
+    background-color: #f5f5f5;
+    height: 130px;
+    align-content: center;
+}
+#cou>div{
+    display: inline-block;
+}
+
+#second{
+    margin-left: 20px;
+
+}
+#second>input{
+    height: 46px;
+    width:500px;
+    margin-right: 0px;
+    border: 2px solid rgba(89, 89, 89, .19);
+    font-size: 14px;
+    color: #2a2e36;
+}
+#second>button{
+    height: 46px;
+    width: 100px;
+    background-color: #d63242;
+    color: white;
+    border: 0px;
+    margin-left: 0px;
+    padding-left: 0px
+}
+
+#spam{
+    padding-top: 10px;
+}
+#get{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+#GETOFF{
+    line-height: 45px;
+
+}
+
+footer{
+    padding-left: 70px;
+}
+table{
+    color: #2a2e36;
+    margin-bottom: 5%;
+
+}
+td{
+    padding-top: 5px;
+    padding-right: 70px;
+}
+
+#head,#OFFTIME{
+    font-weight: 600;
+}
+
+#COPYRI{
+    text-align: center;
+    font-size: 14px;
+    color:  #2a2e36;
+    padding: 10px;
+    
+}
+
+#salepic{
+    height: 650px;
+    width: 100%;
+}
+#salepic>img{
+    padding-top: 20px;
+}
+
+.ndealflex{
+   
+    display: inline-block;
+    margin-top: 2%;
+}
+
+.vdeal{
+    padding-left: 35px;
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    margin-left: 30px;
+    display: inline-block;
+  
+}
+
+.vdeal>img{
+    height:330px;
+    width: 266px;
+}
+
+.vdeal>p:hover{
+    color: red;
+}
+.vdeal>img:hover{
+    height: 350px;
+    width: 280px;
+    
+}
+
+#cou{
+    margin-top: 30px;
+}
+
+#bests{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#daibe{
+    font-weight: 700;
+    font-size: 28px;
+}
